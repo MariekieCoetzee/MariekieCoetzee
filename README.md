@@ -6,7 +6,7 @@
 <hr />
 <p>Software developer with over 7+ years of experience as a full stack developer building responsive web applications and added various innovative features that will improve client experience. I have build POC in ASP.NET core, React and React Native all visible on my github page.</p>
 
-<p>I am originally from South Africa and currently life in Sydney Australia.  </p>
+<p>I am originally from South Africa and currently live in Sydney Australia.  </p>
 
 <p>You can find me on <a href="https://www.linkedin.com/in/mariekie-coetzee-%F0%9F%87%A6%F0%9F%87%BA-41342a2a/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedIn profile" width="25" height="25"/></a>.</p>
 
@@ -22,5 +22,5 @@
 
 <h2>📊 My Github stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariekiecoetzee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)     [![Mariekie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariekiecoetzee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariekiecoetzee&show_icons=true&theme=radical)](https://github.com/mariekiecoetzee/github-readme-stats)     [![Mariekie's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariekiecoetzee&show_icons=true&theme=radical)](https://github.com/mariekiecoetzee/github-readme-stats)
 
