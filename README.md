@@ -1,9 +1,6 @@
 
 <h2 align="center">   Hi There, I am Mariekie Coetzee!</h2>
-<p align="center">
-<kbd><img src="https://user-images.githubusercontent.com/20985071/115101505-16b10280-9f88-11eb-8c3f-be1ab5b0ffea.gif" border="10px" width="200px"/></kbd></p>
 
-<hr />
 <p>Software developer with over 7+ years of experience as a full stack developer building responsive web applications and added various innovative features that will improve client experience. I have build POC in ASP.NET core, React and React Native all visible on my github page.</p>
 
 <p>I am originally from South Africa and currently live in Sydney Australia.  </p>
