@@ -1,7 +1,7 @@
 
 <h2 align="center">   Hi There, I am Mariekie Coetzee!</h2>
 
-<p>Software developer with over 7+ years of experience as a full stack developer building responsive web applications and added various innovative features that will improve client experience. I have build POC in ASP.NET core, React and React Native all visible on my github page.</p>
+<p>I am a software engineer with C# experience and enjoy front end technologies like Blazor, React & React Native. I get excited when learning new technologies look forward to develop applications using new learnings.</p>
 
 <p>I am originally from South Africa and currently live in Sydney Australia.  </p>
 
